@@ -1,3 +1,3 @@
 # pro_dev
 
-Just maintaining some links to interesting courses.
+Just maintaining some links to interesting tutorials.
